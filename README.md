@@ -1,0 +1,1 @@
+# javascript-assiment-1-for-smit
